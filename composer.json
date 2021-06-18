@@ -1,0 +1,17 @@
+{
+    "name": "dumitru/mariuta",
+    "authors": [
+        {
+            "name": "dumitru mariuta",
+            "email": "dumitru1985@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "MyApp\\" :""
+        }
+    }
+
+}
