@@ -1,7 +1,5 @@
 <?php
 
-namespace MyApp\Objects\Product;
-
 class Product {
 
     public $title;

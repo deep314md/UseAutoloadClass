@@ -1,10 +1,5 @@
 <?php
 
-namespace MyApp\typeProduct\Book;
-
-use MyApp\Objects\Product\Product;
-
-
 class Book extends Product{
 
     public $pages;

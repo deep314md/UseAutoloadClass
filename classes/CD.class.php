@@ -1,10 +1,5 @@
 <?php
 
-namespace MyApp\typeProduct\CD;
-
-use MyApp\Objects\Product\Product;
-
-
 class CD extends Product{
 
     public $lenghtAudio;

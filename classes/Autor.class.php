@@ -1,12 +1,5 @@
 <?php
 
-namespace MyApp\Objects\Autor;
-
-
-use MyApp\typeProduct\Book\Book;
-use MyApp\typeProduct\CD\CD;
-
-
 class Autor{
 
     public $name_autor;
