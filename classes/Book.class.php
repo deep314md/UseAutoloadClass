@@ -10,6 +10,7 @@ class Book extends Product{
         
         $this->pages = $pages;
         parent::__construct( $title, $price, $amounts);
+        echo $this->getCostOfPage();
 
     }
 

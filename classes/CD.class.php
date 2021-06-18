@@ -8,6 +8,7 @@ class CD extends Product{
 
         parent::__construct($title, $price, $amounts);
         $this->lenghtAudio = $lenghtAudio;
+        echo $this->getCostOneMinute();
 
     }
 

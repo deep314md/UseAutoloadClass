@@ -27,7 +27,7 @@ class Product {
     public function getIncome(){
         
         $income = "\npotention income: ($this->price*$this->amounts)\n";
-        return $income;
+        echo $income;
 
     }
 
